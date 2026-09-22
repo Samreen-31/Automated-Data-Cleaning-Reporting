@@ -1,0 +1,17 @@
+
+DATA CLEANING REPORT
+--------------------
+Original rows: 8
+Cleaned rows: 7
+Duplicates removed: 1
+
+MISSING VALUES
+--------------
+Missing Age values: 1
+Missing Email values: 1
+Missing Salary values: 1
+
+DATA VALIDATION
+---------------
+Invalid Age values: 0
+Invalid Salary values: 0
